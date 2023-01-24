@@ -47,21 +47,13 @@
 
 > VS Editor, Github web pages, HTML, CSS and Java.
 
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.
 
-- **[js project ]**
+- **[Math Magician, reacp project setup]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -175,6 +167,16 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[Implement a complete calculator]**
+- [ ] **[Add extra tabs to the website]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
