@@ -45,7 +45,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> VS Editor, Github web pages, HTML, CSS and Java.
+> VS Editor, Github web pages, HTML, CSS and JavaScript.
 
 <!-- Features -->
 
@@ -54,10 +54,18 @@
 > Describe between 1-3 key features of the application.
 
 - **[Math Magician, reacp project setup]**
-
+- **[No other active features as of now]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link] 
+<!-- live demo not active as of yet -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -67,7 +75,14 @@
 
 > Describe how a new developer could make use of your project.
 
-To get a local copy up and running, follow these steps.
+To get a local copy up and running, follow these steps, in cloned directory type the following in your terminal: <p>
+**``git clone https://github.com/Thinus01/math_magicians``** <p>
+**``git checkout feature``** This will change you from the main branch to the feature branch. <p>
+**``npm install``** This will ensure that all of the dependancies are installed on your system that is required for the program to run as intended. <p>
+**``npm run build``** After all dependancies are installed, this will implement all of the settings and dependancies to work as they are intended to. <p>
+**``npm start``** Since we have everything in its place, its time to run the program. You will notice that when the page loads up it will show a bunch of errors. Let's fix that by typing: 
+**``npx eslint --fix``**. Now that everything is fixed and ready to go. we type in: **``npm start``** for the last time. Now the page works as it should. <p>
+You should now be able to work on the project without limitations.
 
 ### Prerequisites
 
@@ -88,7 +103,7 @@ Example command:
 
 Clone this repository to your desired folder:
 
-**``git clone https://github.com/Thinus01/Awesome-books``**
+**``git clone https://github.com/Thinus01/math_magicians``**
 
 
 <!--
@@ -104,14 +119,12 @@ Example commands:
 
 Install this project with:
 
-Navigate to the location of the folder in your machine:
-in cloned directory type the following in your terminal: 
-**``git checkout feature``**
-**``npm install``**
-**``npm run build``**
-**``npm start``**
-**``npx eslint --fix``**
-**``npm start``**
+Navigate to the location of the folder in your local machine, in cloned directory type the following in your terminal: <p>
+**``git checkout feature``** This will change you from the main branch to the feature branch. <p>
+**``npm install``** This will ensure that all of the dependancies are installed on your system that is required for the program to run as intended. <p>
+**``npm run build``** After all dependancies are installed, this will implement all of the settings and dependancies to work as they are intended to. <p>
+**``npm start``** Since we have everything in its place, its time to run the program. You will notice that when the page loads up it will show a bunch of errors. Let's fix that by typing: 
+**``npx eslint --fix``**. Now that everything is fixed and ready to go. we type in: **``npm start``** for the last time. Now the page works as it should.
 
 You can end the procces by typing:
 **``npx kill-port 3000``**
