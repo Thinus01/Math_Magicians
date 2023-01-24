@@ -37,7 +37,7 @@
 
 # 📖 [Math Magicians] <a name="about-project"></a>
 
-> I have built a this project using HTML, CSS and JavaScript .
+> I have built a this project using HTML, CSS, JavaScript and React.
 
 **[Math Magicians]** 
 
@@ -45,7 +45,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> VS Editor, Github web pages, HTML, CSS and JavaScript.
+> VS Editor, Github web pages, HTML, CSS, JavaScript and React.
 
 <!-- Features -->
 
