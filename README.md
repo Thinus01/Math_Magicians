@@ -89,7 +89,7 @@ You should now be able to work on the project without limitations.
 In order to run this project you need:
 - IDE
 - Git & Github
-
+- Node.js
 
 <!--
 Example command:
@@ -141,6 +141,7 @@ Example command:
 ### Run tests
 
 To run tests, run the following command:
+**``npm test``**
 
 <!--
 Example command:
