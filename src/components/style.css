@@ -1,0 +1,39 @@
+.Container {
+  margin-left: 25%;
+  width: 50%;
+}
+
+.CalcBtns {
+  margin-top: -40px;
+}
+
+.Result {
+  border: solid 1px gray;
+  background-color: gray;
+  color: white;
+  padding: 3%;
+  padding-left: 95%;
+  font-size: 40px;
+}
+
+.Button {
+  border: solid 1px gray;
+  width: 25%;
+  padding: 5% 0;
+  font-size: 40px;
+}
+
+.Norm {
+  background-color: white;
+}
+
+.BoxColor {
+  background-color: orange;
+}
+
+.Zero {
+  border: solid 1px gray;
+  width: 50%;
+  padding: 5% 0;
+  font-size: 40px;
+}
