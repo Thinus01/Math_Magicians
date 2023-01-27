@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 import PropTypes from 'prop-types';
 import calculate from './logic/calculate';
 
-function Result({ total, operation, next }) {
-  return (
+const Result = ({ total, operation, next }) => {
+  const display = (
     <div>
       {total}
       {' '}
@@ -12,7 +12,8 @@ function Result({ total, operation, next }) {
       {next}
     </div>
   );
-}
+  return display;
+};
 
 Result.propTypes = {
   total: PropTypes.string.isRequired,
@@ -20,9 +21,10 @@ Result.propTypes = {
   next: PropTypes.string.isRequired,
 };
 
-function Calculate() {
+const Calculate = () => {
   const [state, setter] = useState({ total: 0, next: null, operation: null });
   const { total, next, operation } = state;
+  useState({ total, next, operation });
   const handleClick = (event, state, setter) => {
     const buttonName = event.target.innerText;
     const result = calculate(state, buttonName);
@@ -62,6 +64,6 @@ function Calculate() {
       </div>
     </section>
   );
-}
+};
 
 export default Calculate;
