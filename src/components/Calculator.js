@@ -1,5 +1,24 @@
 import React, { useState } from 'react';
+import PropTypes from 'prop-types';
 import calculate from './logic/calculate';
+
+function Result({ total, operation, next }) {
+  return (
+    <div>
+      {total}
+      {' '}
+      {operation}
+      {' '}
+      {next}
+    </div>
+  );
+}
+
+Result.propTypes = {
+  total: PropTypes.string.isRequired,
+  operation: PropTypes.string.isRequired,
+  next: PropTypes.string.isRequired,
+};
 
 function Calculate() {
   const [state, setter] = useState({ total: 0, next: null, operation: null });
@@ -13,9 +32,11 @@ function Calculate() {
     <section>
       <div className="Container">
         <div className="Result">
-          {total}
-          {operation}
-          {next}
+          <Result
+            operation={operation}
+            total={total}
+            next={next}
+          />
         </div>
         <div className="CalcBtns">
           <button className="Button Norm" type="submit" onClick={(event) => handleClick(event, state, setter)}>AC</button>
