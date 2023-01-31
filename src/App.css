@@ -2,9 +2,60 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  background-color: rgb(43, 43, 43);
+  color: rgb(201, 201, 201);
+}
+
+#UL {
+  text-align: right;
+}
+
+#UL li {
+  display: inline;
+}
+
+.Li {
+  padding-right: 1%;
+}
+
+#CalcLi {
+  padding: 0 1% 0 1%;
+  border-left: solid 1px black;
+  border-right: solid 1px black;
+  margin-right: 1%;
+}
+
+#MMh1 {
+  padding-left: 2%;
+  margin-top: -2%;
+  font-weight: 900;
+  font-size: 40px;
+}
+
+.SubHead {
+  padding-left: 2%;
+  font-size: 28px;
+}
+
+.Lorem {
+  padding-top: 1%;
+  width: 96%;
+  padding-left: 2%;
+  font-size: 20px;
+}
+
+.QuoteText {
+  padding-top: 15%;
+  text-align: center;
+  width: 83%;
+  padding-left: 8%;
+  font-size: 35px;
+}
+
+a {
+  color: orange;
+  text-decoration: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {

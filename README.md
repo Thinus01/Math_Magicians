@@ -2,10 +2,6 @@
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README</b></h3>
 
 </div>
 
@@ -35,11 +31,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Math Magicians] <a name="about-project"></a>
+# 📖 [Math Magicians: full website] <a name="about-project"></a>
 
 > I have built a this project using HTML, CSS, JavaScript and React.
 
-**[Math Magicians]** 
+**[Math Magicians: full website]** 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -54,6 +50,7 @@
 > Describe between 1-3 key features of the application.
 
 - **[Calculator is fully functional]**
+- **[Home, Calculator and Quote page]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -63,7 +60,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link] 
+- Not available yet
 <!-- live demo not active as of yet -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -76,7 +73,7 @@
 
 To get a local copy up and running, follow these steps, in cloned directory type the following in your terminal: <p>
 **``git clone https://github.com/Thinus01/math_magicians``** <p>
-**``git checkout dev``** This will change you from the main branch to the feature branch. <p>
+**``git checkout pages``** This will change you from the main branch to the feature branch. <p>
 **``npm install``** This will ensure that all of the dependancies are installed on your system that is required for the program to run as intended. <p>
 **``npm start``** Since we have everything in its place, its time to run the program. You will notice that when the page loads up it will show a bunch of errors. Let's fix that by typing: 
 **``npx eslint --fix``**. Now that everything is fixed and ready to go. we type in: **``npm start``** for the last time. Now the page works as it should. <p>
@@ -118,7 +115,7 @@ Example commands:
 Install this project with:
 
 Navigate to the location of the folder in your local machine, in cloned directory type the following in your terminal: <p>
-**``git checkout dev``** This will change you from the main branch to the feature branch. <p>
+**``git checkout pages``** This will change you from the main branch to the feature branch. <p>
 **``npm install``** This will ensure that all of the dependancies are installed on your system that is required for the program to run as intended. <p>
 **``npm start``** Since we have everything in its place, its time to run the program. You will notice that when the page loads up it will show a bunch of errors about "Expected linebreaks to be 'LF' but found 'CRLF' linebreak-style". Let's fix that by typing: 
 **``npx eslint --fix``**. Now that everything is fixed and ready to go. we type in: **``npm start``** for the last time. Now the page works as it should.
@@ -184,8 +181,7 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[Implement a complete calculator]**
-- [ ] **[Add extra tabs to the website]**
+- [ ] **[Suggestions are welcome]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
