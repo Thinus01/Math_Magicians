@@ -27,20 +27,30 @@ body {
 }
 
 #MMh1 {
+  padding-left: 2%;
+  margin-top: -2%;
   font-weight: 900;
   font-size: 40px;
-  text-align: center;
 }
 
 .SubHead {
-  text-align: center;
+  padding-left: 2%;
   font-size: 28px;
 }
 
 .Lorem {
-  width: 60%;
-  padding-left: 20%;
+  padding-top: 1%;
+  width: 96%;
+  padding-left: 2%;
   font-size: 20px;
+}
+
+.QuoteText {
+  padding-top: 15%;
+  text-align: center;
+  width: 83%;
+  padding-left: 8%;
+  font-size: 35px;
 }
 
 a {
