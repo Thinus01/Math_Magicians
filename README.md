@@ -2,10 +2,6 @@
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README</b></h3>
 
 </div>
 
@@ -64,7 +60,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link] 
+- Not available yet
 <!-- live demo not active as of yet -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
