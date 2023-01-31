@@ -31,11 +31,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Math Magicians] <a name="about-project"></a>
+# 📖 [Math Magicians: full website] <a name="about-project"></a>
 
 > I have built a this project using HTML, CSS, JavaScript and React.
 
-**[Math Magicians]** 
+**[Math Magicians: full website]** 
 
 ## 🛠 Built With <a name="built-with"></a>
 
