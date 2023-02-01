@@ -66,7 +66,6 @@ const Calculate = () => {
         </div>
       </section>
     </>
-
   );
 };
 
